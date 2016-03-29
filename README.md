@@ -1,1 +1,1 @@
-"# Spring Recipes 2 Ed." 
+# Spring Recipes 2 Ed.
